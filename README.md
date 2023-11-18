@@ -1,5 +1,5 @@
 # ChiperOne
-============================================================================================================================
+
 WELCOME! this is chiperone, this is a tool ransomware-based, for encrypt directories files etc..., this tool is written in python by nicksecurity
 enjoy the tool!
 for any problem contact me on telegram: NickSecurity
